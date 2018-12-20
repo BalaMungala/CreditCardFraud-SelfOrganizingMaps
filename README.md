@@ -9,7 +9,7 @@ Attribute Information:
 There are 6 numerical and 8 categorical attributes. The labels have been changed for the convenience of the statistical algorithms. For example, attribute 4 originally had 3 labels p,g,gg and these have been changed to labels 1,2,3. 
 
 ##
-A1: 0,1 CATEGORICAL (formerly: a,b) \n
+A1: 0,1 CATEGORICAL (formerly: a,b) 
 A2: continuous. 
 A3: continuous. 
 A4: 1,2,3 CATEGORICAL (formerly: p,g,gg) 
